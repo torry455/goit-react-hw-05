@@ -1,0 +1,40 @@
+.reviewsList {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    list-style-type: none;
+}
+
+.reviewContent {
+    display: flex;
+    column-gap: 30px;
+    margin-bottom: 30px ;
+}
+
+.reviewDate {
+    margin-top: 0;
+}
+
+.reviewItem {
+    margin-bottom: 50px;
+    border: 1px solid #5e5e5e;
+    border-radius: 20px;
+    padding: 12px;
+}
+
+.reviewImg {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+
+.infoMessage {
+    margin: 50px 100px 100px;
+    font-size: 24px;
+    color: #dbb61f;
+}
+
+.rating {
+    color: #dbb61f;
+    font-size: 24px;
+}

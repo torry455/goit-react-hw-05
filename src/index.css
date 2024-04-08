@@ -1,0 +1,22 @@
+body {
+  background-color: #1c1c1c;
+  color: #fff;
+  font-family: montserrat, sans-serif;
+  list-style-type: none;
+}
+
+a,
+nav,
+title,
+link,
+p {
+  list-style-type: none;
+  text-decoration: none;
+  color: #fff;
+  margin-top: 0;
+}
+
+button {
+  cursor: pointer;
+  
+}

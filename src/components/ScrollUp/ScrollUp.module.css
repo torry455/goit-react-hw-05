@@ -1,0 +1,20 @@
+.ScrollUpBtnContainer {
+    background-color: rgba(255, 255, 0, 0.5);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    transition: background-color 0.3s;
+}
+
+.ScrollUpBtnContainer:hover {
+    background-color: rgba(255, 255, 0, 0.7);
+}
+
+.ScrollUpBtnContainer:active {
+    background-color: rgba(255, 255, 0, 0.9);
+}
+
+.ScrollUpBtnToggled svg {
+    fill: white;
+    width: 30px;
+}

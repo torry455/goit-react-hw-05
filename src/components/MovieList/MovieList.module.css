@@ -1,0 +1,19 @@
+.listMovies {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.movieItem {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 300px;
+}
+
+.movieTitle {
+    font-size: 18px;
+    
+}

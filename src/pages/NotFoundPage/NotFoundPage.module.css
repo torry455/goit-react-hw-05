@@ -1,0 +1,19 @@
+.infoMessage {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.backHome {
+    background-color: #dbb61f;
+    align-items: center;
+    color: #fff;
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: 1px solid #dbb61f;
+    border-radius: 20px;
+}

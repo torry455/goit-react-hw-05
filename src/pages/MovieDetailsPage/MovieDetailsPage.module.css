@@ -1,0 +1,44 @@
+.goBack {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px 100px;
+    display: block;
+}
+
+.mainMovieInfo {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.movieDetailsTitle {
+    margin-top: 0;
+}
+
+.movieInfo {
+    max-width: 600px;
+}
+
+.userScore {
+    color: #dbb61f;
+}
+
+.genres {
+    color: #dbb61f;
+}
+
+.addLinks {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding-left: 0;
+}
+
+.addItems:hover,
+.addItems:focus {
+    color: #dbb61f;
+}

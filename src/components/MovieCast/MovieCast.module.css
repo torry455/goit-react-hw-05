@@ -1,0 +1,23 @@
+.mainCast {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.listCast {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    gap: 30px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    /* width: 253px; */
+}
+
+.castItem {
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.actorInfoWrapper {
+    margin-top: 5px;
+}
